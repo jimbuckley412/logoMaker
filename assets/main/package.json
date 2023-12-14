@@ -1,0 +1,20 @@
+{
+    "name": "logoMaker",
+    "version": "1.0.0",
+    "description": "A simple logo maker",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Jim Buckley",
+    "license": "MIT",
+    "dependencies": {
+        "canvas": "^2.6.1",
+        "inquirer": "^8.2.4",
+        "discord.js": "^11.4.2",
+        "fs": "0.0.1-security",
+        "jimp": "^0.6.4",
+        "node-canvas": "^2.0.0-alpha.12",
+        "path": "^0.12.7"
+    }
+}
